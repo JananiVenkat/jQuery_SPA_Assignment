@@ -1,0 +1,49 @@
+/*Heading*/
+#heading-align
+{
+	text-align: center;
+	font-size: 30px;
+	color:  #0052cc;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+/*Table part*/
+#table-head
+{
+	background-color:#1ac6ff ;
+	font-size: 20px;
+}
+.scrollable
+{
+	height: 600px;
+	overflow: scroll;
+}
+
+/*graph part*/
+#graph-append
+{
+	margin-top: 30px;
+}
+/*form part*/
+#form-heading
+{
+	font-size: 30px;
+	text-decoration: underline;
+	position: relative;
+	margin-top: -50%;
+	color:  #0052cc;
+	font-weight: bold;
+}
+
+.custom-form
+{
+	margin-top:10px;
+	margin-left: 40%;
+
+}
+form>div>label
+{
+	font-size: 20px;
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Graph Manipulation</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+ 	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="container-fluid">
+		<header id="heading-align"><!--Hearder Part-->
+			<h2>FoodGrains Production</h2>
+		</header><!--end Header Part-->
+		<div class="row"><!--consider row -->
+			<div class="col-md-4 scrollable"><!--column to display the table-->		
+				<table class="table table-hover table-bordered table-striped table-responsive " id="grains">
+
+					<tr></tr>  
+				
+				</table><!--end table tag-->
+			
+			</div><!--end table section-->		
+		<div class ="col-md-7"><!--column to display the graph-->
+
+			<div id="graph-append">
+				
+			</div>			
+		</div><!--end graph-->		
+		
+		<!--form part to enter the values-->
+			<div class="row">			
+				<form class="col-md-5 custom-form"> 	
+					<h4 id="form-heading">Add FoodGrain Type And The Value</h4>	
+					<!--div for particulars -->
+				  	<div class="form-group has-success has-feedback">
+					    <label for="Particulars">Particulars</label>
+					    <input type="text" class="form-control" id="Particulars" placeholder="Enter FoodGrain Type">
+				  	</div> 
+				  	<!--div tag to enter the values--> 	
+				  	<div class="form-group has-success has-feedback">
+					    <label for="value">Value</label>
+					    <input type="text" class="form-control" id="value" placeholder="Enter Value">
+				  	</div>
+					<div class="form-group">	
+						<button class="btn btn-default btn-primary" id="add-grains">Add Grains</button>
+					</div><!--end button-->
+				</form><!--end form-->
+			</div>	 <!--end form row	-->
+		</div><!--end row-->
+	</div><!--end container-->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.js"></script>
+	<script src="https://d3js.org/d3.v3.min.js"></script>
+	<script  src="js/main.js"></script>
+	<script src="js/Foodgrains.js"></script>
+</body>
+</html>

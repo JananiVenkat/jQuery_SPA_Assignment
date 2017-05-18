@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "Particulars": "Jowar Kharif",
+      "value": "2.84"
+    },
+    {
+      "Particulars": "Jowar Rabi",
+      "value": "2.44"
+    },
+    {
+      "Particulars": "Bajra Kharif",
+      "value": "8.74"
+    },
+    {
+      "Particulars": "Maize",
+      "value": "22.26"
+    },
+    {
+      "Particulars": "Maize Kharif",
+      "value": "16.19"
+    },
+    {
+      "Particulars": "Maize Rabi",
+      "value": "6.06"
+    },
+    {
+      "Particulars": "Ragi Kharif",
+      "value": "1.57"
+    },
+    {
+      "Particulars": "Small Millets Kharif",
+      "value": "0.44"
+    },
+    {
+      "Particulars": "Barley Rabi",
+      "value": "1.75"
+    },
+    {
+      "Particulars": "Coarse Cereals",
+      "value": "40.04"
+    },
+    {
+      "Particulars": "Coarse Cereals Kharif",
+      "value": "29.79"
+    },
+    {
+      "Particulars": "Coarse Cereals Rabi",
+      "value": "10.25"
+    },
+    {
+      "Particulars": "Cereals",
+      "value": "238.79"
+    },
+    {
+      "Particulars": "Cereals Kharif",
+      "value": "122.16"
+    },
+    {
+      "Particulars": "Cereals Rabi",
+      "value": "116.63"
+    },
+    {
+      "Particulars": "Tur Kharif",
+      "value": "3.02"
+    },
+    {
+      "Particulars": "Other Kharif Pulses Kharif",
+      "value": "0.62"
+    },
+    {
+      "Particulars": "pulse",
+      "value": "200"
+    },
+    {
+      "Particulars": "rabi",
+      "value": "300"
+    },
+    {
+      "Particulars": "kharif",
+      "value": "23"
+    },
+    {
+      "Particulars": "kharif rabi",
+      "value": "210"
+    },
+    {
+      "Particulars": "rice",
+      "value": "66"
+    },
+    {
+      "Particulars": "sdgg",
+      "value": "345"
+    },
+    {
+      "Particulars": "asdf",
+      "value": "23"
+    },
+    {
+      "Particulars": "sdfg",
+      "value": "34"
+    },
+    {
+      "Particulars": "ret",
+      "value": "456"
+    },
+    {
+      "Particulars": "rice pulse",
+      "value": "321"
+    },
+    {
+      "Particulars": "ert",
+      "value": "400"
+    }
+  ]
+}
